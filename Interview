@@ -14,38 +14,20 @@ Interviewer: That seems to be a good approach. Which programming language will y
 
 Programmer: I was thinking of Python as it has a easier to read syntax that could be of great help for you. However, I am open to some other languages as per faster execution or your preferences.
 
-Interviewer: Usually, we use C++ so if you could use it, it would be great for us. Plus, as you said, Python may not be the faster to run.
+Interviewer: Usually, we use C++ so if you could use it, it would be great for us. Plus, as you said, Python may not be the faster to run and we are interested in time.
 
-Programmer: 
+Programmer: Okay, perfect. Then I will go for C++.
 
-Interviewer:
+Interviewer: Do you have any more questions before coding?
 
-Programmer: 
+Programmer: Yes, I have some questions. First, can the elements in array have negative values?  
 
-Interviewer:
+Interviewer: No, the statement says only values that are nonnegative. 
 
-Programmer: 
+Programmer: Okay, second is how should we handle flat sections (when all values are the same in a consecutive section.
 
-Interviewer:
+Interviewer: Interesting question, we can assume that since there is no peak, we do nothing but returning 0.
 
-Programmer: 
+Programmer: That's all, I will start coding now.
 
-Interviewer:
-
-Programmer: 
-
-Interviewer:
-
-Programmer: 
-
-Interviewer:
-
-Programmer: 
-
-Interviewer:
-
-Programmer: 
-
-Interviewer:
-
-Programmer: 
+Interviewer: Great, thank you.
