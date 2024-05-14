@@ -2,11 +2,11 @@ Interviewer: Hello! We will cover one problem today related to finding longest m
 
 Programmer: Hello. That is great. May you explain problem a bit more?
 
-Interviewer:
+Interviewer: Yes, you are given an array composed of integers and you need to find the length of the longest subarray in that array that is forming a mountain. By mountain we understand as a subarray where there is a peak element, i.e. there is one strictly lower value before it and one strictly lower value after it.
 
-Programmer: 
+Programmer: Perfect, understood. I guess then that the minimum length must be 3 elements, and we would return 0 in other case.
 
-Interviewer:
+Interviewer: Yeah, that is absolutely correct! What approach would you follow to solve this problem?
 
 Programmer: 
 
