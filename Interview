@@ -8,13 +8,13 @@ Programmer: Perfect, understood. I guess then that the minimum length must be 3 
 
 Interviewer: Yeah, that is absolutely correct! What approach would you follow to solve this problem?
 
-Programmer: 
+Programmer: First thing would be to iterate over the array to find potential peaks. Once we hava  potential peak we will move to left of it to see how long has the increasing sequence been there and on the right, equivalently, for decreasing sequence. Then, sum both lengths (plus 1 for the peak) to obtain our longest mountain. Further, I would have to keep track of the maximum length found, by using max function and comparing latest found mountain length with already largest one.
 
-Interviewer:
+Interviewer: That seems to be a good approach. Which programming language will you use?
 
-Programmer: 
+Programmer: I was thinking of Python as it has a easier to read syntax that could be of great help for you. However, I am open to some other languages as per faster execution or your preferences.
 
-Interviewer:
+Interviewer: Usually, we use C++ so if you could use it, it would be great for us. Plus, as you said, Python may not be the faster to run.
 
 Programmer: 
 
